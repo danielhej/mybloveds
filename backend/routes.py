@@ -10,9 +10,8 @@ def get_friends():
     result = [friend.to_json() for friend in friends]
     return jsonify(result), 200
 
+
 # Creat A Friend
-
-
 @app.route('/api/friends', methods=['POST'])
 def create_friend():
     try:
@@ -21,7 +20,7 @@ def create_friend():
         # Validation
         required_fields = ['name', 'role', 'description', 'gender']
         for field in required_fields:
-            if field not in data:
+            if field not in data or not data.get(field):
                 return jsonify({"error": f'Missing required field: {field}'}), 400
 
         name = data.get('name')
