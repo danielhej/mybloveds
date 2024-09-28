@@ -30,11 +30,9 @@ def create_friend():
 
         # Fetch Avatar Image Based on Gender
         if gender == 'male':
-            img_url = f'https://avatar.iran.liara.run/public/boy?username={
-                name}'
+            img_url = f'https://avatar.iran.liara.run/public/boy?username={name}'
         elif gender == 'female':
-            img_url = f'https://avatar.iran.liara.run/public/girl?username={
-                name}'
+            img_url = f'https://avatar.iran.liara.run/public/girl?username={name}'
 
         new_friend = Friend(name=name, role=role,
                             description=description, gender=gender, img_url=img_url)
