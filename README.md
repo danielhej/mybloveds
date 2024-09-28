@@ -14,7 +14,7 @@ First off, big thanks to [Burak Orkmez](https://github.com/burakorkmez) for his 
 
 ## Live Version 🌐
 
-You can check out the live version of **Mybloveds** at [mybloveds.example.com](http://mybloveds.example.com) (replace with actual URL if available). 
+You can check out the live version of **Mybloveds** at [mybloveds.onrender.com](https://mybloveds.onrender.com). 
 
 ### Features of the Live Version:
 
