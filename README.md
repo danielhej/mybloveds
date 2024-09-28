@@ -1,4 +1,4 @@
-# MyBloveds 🎉
+# Mybloveds 🎉
 
 First off, big thanks to [Burak Orkmez](https://github.com/burakorkmez) for his awesome [YouTube tutorial](https://youtu.be/tWHXaSC2T_s) that inspired this project! 🙌
 
@@ -78,6 +78,10 @@ Make sure you have these installed before proceeding with the setup.
 ## Usage 📝
 
 Super simple! Just fill in the contact info (name, role, description, and gender), and the app will display it for you. You can edit or delete any contact as needed, and everything happens without refreshing the page! 🌟
+
+## Connect with the Original Project 🔗
+
+For more details, check out the original project by Burak Orkmez on GitHub: [React-Python Tutorial](https://github.com/burakorkmez/react-python-tutorial)
 
 ## Contributions 🤝
 
