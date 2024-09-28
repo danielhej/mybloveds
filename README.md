@@ -12,6 +12,21 @@ First off, big thanks to [Burak Orkmez](https://github.com/burakorkmez) for his 
 - **Live Updates**: Create, delete, or update contact info and see changes immediately. 🔄
 - **Simple & Clean UI**: Focused on functionality and user-friendly interactions. 🎨
 
+## Live Version 🌐
+
+You can check out the live version of **Mybloveds** at [mybloveds.example.com](http://mybloveds.example.com) (replace with actual URL if available). 
+
+### Features of the Live Version:
+
+- **Immediate Access**: No need to set up anything on your local machine—just visit the link to use the app! 🔗
+- **Real-Time Interaction**: Experience all the features, such as adding, updating, and deleting contacts, all in real time without page reloads! 🚀
+- **User-Friendly**: Enjoy a clean and simple interface directly in your browser.
+
+### Notes:
+
+- The live version is a demonstration of the project, and changes made in the app are not persistent and may reset after a period.
+- For any issues or feature requests, feel free to raise them in the issues section of the GitHub repository.
+
 ## Installation 🔧
 
 To get started with this project, here’s how to set it up on your local machine.
