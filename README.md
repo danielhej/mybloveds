@@ -36,7 +36,7 @@ To get started with this project, here’s how to set it up on your local machin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/burakorkmez/react-python-tutorial
+   git clone https://github.com/danielhej/mybloveds
    cd react-python-tutorial/backend
    ```
 
