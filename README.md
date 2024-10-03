@@ -37,7 +37,7 @@ To get started with this project, here’s how to set it up on your local machin
 
    ```bash
    git clone https://github.com/danielhej/mybloveds
-   cd react-python-tutorial/backend
+   cd mybloveds/backend
    ```
 
 2. Create a virtual environment and activate it:
